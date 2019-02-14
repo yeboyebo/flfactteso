@@ -17,7 +17,7 @@ from YBLEGACY.constantes import *
 class flfactteso(interna):
 
     def flfactteso_getDesc(self):
-        return None
+        return "descripcion"
 
     def __init__(self, context=None):
         super().__init__(context)
