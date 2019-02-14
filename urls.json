@@ -1,3 +1,21 @@
 {
-    "modifications": []
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/models/root",
+            "value": {
+                "flfactteso": {
+                    "evolucioncuenta": null,
+                    "factteso_general": null,
+                    "mandatoscli": null,
+                    "pagosdevolcli": null,
+                    "pagosdevolrem": null,
+                    "reciboscli": null,
+                    "remesas": null,
+                    "secuenciastesoreria": null,
+                    "seleccionreciboscli": null
+                }
+            }
+        }
+    ]
 }

@@ -19,6 +19,79 @@
             }
         ],
         "patchScript": [],
-        "addFile": []
+        "addFile": [
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__evolucioncuenta.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__evolucioncuenta_def.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__factteso_general.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__factteso_general_def.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__mandatoscli.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__mandatoscli_def.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__pagosdevolcli.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__pagosdevolcli_def.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__pagosdevolrem.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__pagosdevolrem_def.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__reciboscli.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__reciboscli_def.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__remesas.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__remesas_def.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__secuenciastesoreria.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__secuenciastesoreria_def.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__seleccionreciboscli.py"
+            },
+            {
+                "path": "models/flfactteso/",
+                "name": "model_flfactteso__seleccionreciboscli_def.py"
+            }
+        ]
     }
 }
