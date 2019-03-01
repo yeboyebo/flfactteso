@@ -91,6 +91,18 @@
             {
                 "path": "models/flfactteso/",
                 "name": "model_flfactteso__seleccionreciboscli_def.py"
+            },
+            {
+                "name": "app_tesoreria____init__.py",
+                "path": "apps/tesoreria/"
+            },
+            {
+                "name": "app_tesoreria__menu_tesoreria.json",
+                "path": "apps/tesoreria/templates/tesoreria/"
+            },
+            {
+                "name": "app_tesoreria__views_tesoreria.py",
+                "path": "apps/tesoreria/viewset/"
             }
         ]
     }

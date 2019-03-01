@@ -2,6 +2,13 @@
     "modifications": [
         {
             "type": "insertAfterNode",
+            "path": "/principal",
+            "value": {
+                "tesoreria": {}
+            }
+        },
+        {
+            "type": "insertAfterNode",
             "path": "/models/root",
             "value": {
                 "flfactteso": {
