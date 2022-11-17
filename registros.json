@@ -13,7 +13,8 @@
                     "reciboscli": null,
                     "remesas": null,
                     "secuenciastesoreria": null,
-                    "seleccionreciboscli": null
+                    "seleccionreciboscli": null,
+                    "factteso_modelos": null
                 }
             }
         }
